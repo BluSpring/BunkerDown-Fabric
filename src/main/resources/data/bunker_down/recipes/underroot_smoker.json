@@ -1,0 +1,10 @@
+{
+  "group": "underrootcook",
+  "type": "minecraft:smoking",
+  "experience": 0,
+  "cookingtime": 60,
+  "ingredient": {
+    "item": "bunker_down:underroot_stage_1"
+  },
+  "result": "bunker_down:roasted_underroot_seeds"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bunker_down:items/ceilinglampoff"
+  },
+  "render_type": "translucent"
+}

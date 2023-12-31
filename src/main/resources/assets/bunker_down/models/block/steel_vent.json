@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bunker_down:blocks/steelgrate",
+    "up": "bunker_down:blocks/steelgrate",
+    "north": "bunker_down:blocks/steelgrate",
+    "east": "bunker_down:blocks/steelgrate",
+    "south": "bunker_down:blocks/steelgrate",
+    "west": "bunker_down:blocks/steelgrate",
+    "particle": "bunker_down:blocks/ceilinglampmetal"
+  },
+  "render_type": "cutout"
+}

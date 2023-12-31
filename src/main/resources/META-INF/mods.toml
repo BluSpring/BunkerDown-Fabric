@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="bunker_down"
+version="1.1.4"
+displayName="Bunker Down"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="JAK_the_Cyborg, MCreator"
+description='''
+Spawns the player in an underground bunker. Ideal for underground mods.
+'''
+
+[[dependencies.bunker_down]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

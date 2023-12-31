@@ -1,0 +1,10 @@
+{
+  "group": "underrootcook",
+  "type": "minecraft:campfire_cooking",
+  "experience": 0,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "bunker_down:underroot_stage_1"
+  },
+  "result": "bunker_down:roasted_underroot_seeds"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "bunker-down",
+  "version": "${version}",
+  "name": "Bunker Down",
+  "description": "Spawns the player in an underground bunker. Ideal for underground mods.",
+  "authors": [
+    "BluSpring",
+    "JAK_the_Cyborg",
+    "MCreator"
+  ],
+  "contact": {
+    "repo": "https://github.com/BluSpring/BunkerDown"
+  },
+  "license": "MIT",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "xyz.bluspring.bunkerdown.client.BunkerDownClient"
+    ],
+    "main": [
+      "xyz.bluspring.bunkerdown.BunkerDown"
+    ]
+  },
+  "mixins": [
+    "bunker-down.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

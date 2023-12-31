@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "bunker_down:roasted_underroot_seeds"
+    },
+    "title": {
+      "translate": "advancements.cook_underroot.title"
+    },
+    "description": {
+      "translate": "advancements.cook_underroot.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cook_underroot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bunker_down:roasted_underroot_seeds"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "bunker_down:plant_underroot"
+}

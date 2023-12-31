@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "bunker_down:airlock_iron_door",
+    "bunker_down:airlock_iron_trapdoor",
+    "bunker_down:ceiling_lamp",
+    "bunker_down:steel_vent",
+    "bunker_down:steel_block",
+    "bunker_down:steel_pressure_plate",
+    "bunker_down:steel_block_slab",
+    "bunker_down:broken_ceiling_lamp"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "bunker_down:blocks/underroot3",
+    "particle": "bunker_down:blocks/underroot3"
+  },
+  "render_type": "cutout"
+}

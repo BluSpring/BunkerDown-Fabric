@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bunker_down:block/steel_block_slab"
+    },
+    "type=top": {
+      "model": "bunker_down:block/steel_block_slab_top"
+    },
+    "type=double": {
+      "model": "bunker_down:block/steel_block_slab_full"
+    }
+  }
+}

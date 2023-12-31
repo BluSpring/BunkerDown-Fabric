@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "item": "bunker_down:underroot"
+    },
+    "title": {
+      "translate": "advancements.plant_underroot.title"
+    },
+    "description": {
+      "translate": "advancements.plant_underroot.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "plant_underroot": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "bunker_down:underroot_stage_1"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "bunker_down:underroot_smelt",
+      "bunker_down:underroot_smoker",
+      "bunker_down:roasted_underroot_campfire"
+    ]
+  },
+  "parent": "minecraft:husbandry/root"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bunker_down:blocks/ceilinglampmetal",
+    "up": "bunker_down:blocks/ceilinglampmetal",
+    "north": "bunker_down:blocks/ceilinglampmetal",
+    "east": "bunker_down:blocks/ceilinglampmetal",
+    "south": "bunker_down:blocks/ceilinglampmetal",
+    "west": "bunker_down:blocks/ceilinglampmetal",
+    "particle": "bunker_down:blocks/ceilinglampmetal"
+  },
+  "render_type": "solid"
+}

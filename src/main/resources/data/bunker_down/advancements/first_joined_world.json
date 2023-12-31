@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "first_joined_world": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:story/root"
+}

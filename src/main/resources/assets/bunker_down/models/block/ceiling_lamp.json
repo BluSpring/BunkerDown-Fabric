@@ -1,0 +1,10 @@
+{
+  "parent": "bunker_down:custom/ceilinglamp",
+  "textures": {
+    "all": "bunker_down:blocks/ceilinglamp",
+    "particle": "bunker_down:blocks/ceilinglamp",
+    "1": "bunker_down:blocks/ceilinglampmetal",
+    "light": "bunker_down:blocks/ceilinglamp"
+  },
+  "render_type": "solid"
+}

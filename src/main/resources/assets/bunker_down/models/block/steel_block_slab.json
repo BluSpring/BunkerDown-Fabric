@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "bunker_down:blocks/ceilinglampmetal",
+    "top": "bunker_down:blocks/ceilinglampmetal",
+    "side": "bunker_down:blocks/steelslab"
+  },
+  "render_type": "solid"
+}
